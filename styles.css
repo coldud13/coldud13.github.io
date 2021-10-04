@@ -1,5 +1,6 @@
 body {
     background-color: rgb(50, 80, 83);
+    background-image: url('bg.png');
   }
   h1 {
     color: rgb(164, 210, 240);
